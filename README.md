@@ -17,7 +17,7 @@ A python script to watch Attack on Titan for free and without ads.
     pip install requests
     pip install colorama
     ```
-3. [Download](https://github.com/axel05869/AoT-stream/archive/main.zip) and run opstream.py
+3. [Download](https://github.com/axel05869/AoT-stream/archive/main.zip) and run AoTstream.py
 
 ``If error occurred like "no module named ..."
 run cmd again and install the missing module, refer to step 2.``
